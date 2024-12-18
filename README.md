@@ -55,7 +55,7 @@ A machine learning-powered web app predicting Fire Weather Index (FWI), designed
 
 Feel free to reach out if you have any questions or want to collaborate!
 
-- **Email:** [krishnakamalbaishnab98@gmail.com](mailto:krishnakamalbaishnab98@gmail.com)
+- **Email:** [ht785618@gmail.com](mailto:ht785618@gmail.com)
 - **LinkedIn:** [Krishna Kamal Baishnab](https://linkedin.com/in/krishna-kamal-baishnab-81a76819a/)
 - **GitHub:** [KrishnaKamalBaishnab](https://github.com/KrishnaKamalBaishnab)
 
